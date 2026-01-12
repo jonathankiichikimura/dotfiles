@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = picard33470@gmail.com
+	name = Jonathan Kiichi Kimura
